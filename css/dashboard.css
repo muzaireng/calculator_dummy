@@ -1,0 +1,139 @@
+body{
+    Margin:0;
+    padding:0;
+    background-color: rgb(204, 202, 198);
+}
+
+td{
+    padding:0;
+}
+
+img{
+    border:0;
+}
+.outer{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    border-spacing: 0;
+    font-family: sans-serif;
+    color: #4a4a4a;
+    background-color: white;
+}
+
+    
+
+
+.header{
+    background-color: rgb(71, 71, 247);
+    padding-top: 100px;
+    height: 150px;
+}
+
+.menue1{
+    background-color: white;
+
+    text-align: center;
+    
+    
+
+    
+    
+}
+
+.menue1 .column{
+   
+    width: 100%;
+    max-width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    
+    
+}
+
+form input:hover{
+    background-color: yellow;
+}
+
+
+.menue2{
+    background-color: white;
+
+    text-align: center;
+    
+    
+}
+
+.menue2 .column{
+   
+    width: 100%;
+    max-width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    
+    
+}
+
+.menue3{
+    background-color: white;
+    text-align: center;
+
+    
+    
+}
+
+.menue3 .column{
+   
+    width: 100%;
+    max-width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+    
+    
+}
+
+.menue4{
+    background-color: white;
+
+    text-align: center;
+    
+    
+}
+
+.menue4 .column{
+   
+    width: 100%;
+    max-width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    
+    
+}
+
+
+.menue5{
+    background-color: white;
+    text-align: center;
+    
+
+    
+    
+}
+
+.menue5 .column{
+   
+    width: 100%;
+    max-width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    
+    
+}
+
+
+
+
+
+
+
+
